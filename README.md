@@ -1,2 +1,3 @@
 # Piano-Simon-Dice
-Proyecto taller de ingenieris unal 2024-1
+Proyecto taller de ingeniería unal 2024-1
+
